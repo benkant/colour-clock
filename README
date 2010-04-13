@@ -1,0 +1,7 @@
+A clock that uses three coloured rotating blocks to tell the time.
+
+The first block rotates once an hour, changing from #000000 to #ff0000
+The second block rotates once a minute, changing from #000000 to #00ff00
+The third block rotates once a second, changing from #000000 to #0000ff
+
+Click on the window to read the actual time if you find that confusing. Or look at your phone.
